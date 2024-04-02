@@ -20,6 +20,7 @@ interface ICardProps{
     background: #ffffff;
     padding: 16px;
     border-radius: 12px;
+    cursor:pointer;
 }
 
 .cardComponentContainer:hover{
